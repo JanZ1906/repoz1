@@ -4,3 +4,4 @@ Jan Zastawa
 L16
 
 współpraca z Szymon Wolski
+.
